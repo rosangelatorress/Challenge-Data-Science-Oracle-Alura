@@ -37,9 +37,15 @@ Durante o desafio, foram analisados os dados de **4 lojas fictícias** da Alura 
 
 ---
 
-## 🔎 Alguns Gráfico da Análise
+## 🔎 Alguns Gráficos da Análise
 ### 📈 Faturamento por loja
-![Gráfico de Faturamento](imagem/faturamento_por_loja.png)
+![Gráfico de Faturamento](https://github.com/rosangelatorress/Challenge-Data-Science-Oracle-Alura/blob/main/imagens/faturamento_por_loja.png?raw=true)
+### 🛒 Quantidade de Vendas por Estado
+![Quantidade de Vendas por Estado](https://github.com/rosangelatorress/Challenge-Data-Science-Oracle-Alura/blob/main/imagens/qtde_vendas_por_estado_loja.png?raw=true)
+### 🔝 Top 3 Categorias com Maior Faturamento
+![Top 3 Categorias com Maior Faturamento](https://github.com/rosangelatorress/Challenge-Data-Science-Oracle-Alura/blob/main/imagens/top3_catg_maior_faturamento_loja.png?raw=true)
+### ⭐ Avaliação Média por Loja
+![Avaliação Média por Loja](https://github.com/rosangelatorress/Challenge-Data-Science-Oracle-Alura/blob/main/imagens/avaliacao_media_loja.png?raw=true)
 
 ## 📁 Como visualizar
 
