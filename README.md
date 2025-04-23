@@ -37,6 +37,10 @@ Durante o desafio, foram analisados os dados de **4 lojas fictícias** da Alura 
 
 ---
 
+## 🔎 Alguns Gráfico da Análise
+### 📈 Faturamento por loja
+![Gráfico de Faturamento](imagem/faturamento_por_loja.png)
+
 ## 📁 Como visualizar
 
 Você pode abrir o notebook diretamente no [Google Colab](https://colab.research.google.com/) para visualizar os gráficos e análises interativas.
