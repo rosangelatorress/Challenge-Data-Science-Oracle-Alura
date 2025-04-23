@@ -47,12 +47,11 @@ Durante o desafio, foram analisados os dados de **4 lojas fictícias** da Alura 
 ### ⭐ Avaliação Média por Loja
 ![Avaliação Média por Loja](https://github.com/rosangelatorress/Challenge-Data-Science-Oracle-Alura/blob/main/imagens/avaliacao_media_loja.png?raw=true)
 
-## 📁 Como visualizar
-
-Você pode abrir o notebook diretamente no [Google Colab](https://colab.research.google.com/) para visualizar os gráficos e análises interativas.
+---
 
 ### 🔗 Link para o notebook:
-👉 https://drive.google.com/file/d/13G64Ux363pgIqymlTRnSWvposhyaGghp/view?usp=sharing
+
+Você pode visualizar ou baixar o notebook 👉 [Aqui](https://github.com/rosangelatorress/Challenge-Data-Science-Oracle-Alura/blob/main/AluraStoreBr.ipynb) 
 
 ---
 
